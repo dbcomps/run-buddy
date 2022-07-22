@@ -13,5 +13,7 @@ https://dbcomps.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by David Barraza
 
+Lets add another line that will conflict
+
 ### ©2019 Run Buddy, Inc
 
