@@ -1,5 +1,16 @@
-# run-buddy
+# Run Buddy
 
-This is for a homework assignment. 
+## Purpose
+A website that offers fitness training services.
 
-The website for this repo can be found [here](https://dbcomps.github.io/run-buddy/).
+## Built With
+* HTML
+* CSS
+
+## Website
+https://dbcomps.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by David Barraza
+
+### ©2019 Run Buddy, Inc
