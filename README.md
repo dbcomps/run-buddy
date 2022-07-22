@@ -11,5 +11,5 @@ A website that offers fitness training services.
 https://dbcomps.github.io/run-buddy/
 
 ## Contribution
-Made with ❤️ by David Barraza
+Made with ❤️ by David 
 
