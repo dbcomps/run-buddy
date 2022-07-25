@@ -278,6 +278,10 @@ section {
 	background: #024e76;
 }
 
+.contact h2 {
+	color: #fce138;
+}
+
 .contact-info {
 	display: flex;
 	justify-content: space-between;
@@ -287,10 +291,6 @@ section {
 .contact-info > * {
 	flex: 1;
 	margin: 15px;
-}
-
-.contact h2 {
-	color: #fce138;
 }
 
 .contact-info iframe {
@@ -333,6 +333,7 @@ section {
 	padding: 15px 0;
 	font-size: 16px;
 }
+
 .contact-info a {
 	color: #fce138;
 }
